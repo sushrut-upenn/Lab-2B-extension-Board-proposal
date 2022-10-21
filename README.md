@@ -1,5 +1,7 @@
 # Lab-2B-extension-Board-proposal
 
+Worked with Juilee Samir Kotnis
+
 Before putting forth our board proposal we have got our external LED blinking activity in action. We first executed the blinking LED using the attached file named Blinking LED. We modified the code to carry out the above action. We have also attached a video showing the execution. 
 
 
